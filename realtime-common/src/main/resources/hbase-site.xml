@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<!--就是hbase安装包里复制出来的hbase-site.xml-->
+<configuration>
+    <property>
+        <name>hbase.zookeeper.quorum</name>
+        <value>hadoop102,hadoop103,hadoop104</value>
+        <description>The directory shared by RegionServers
+        </description>
+    </property>
+</configuration>

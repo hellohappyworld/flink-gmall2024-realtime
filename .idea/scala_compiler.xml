@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="realtime-dim">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dim\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 10" modules="realtime-dws-traffic-source-keyword-page-view-window">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dws\realtime-dws-traffic-source-keyword-page-view-window\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 11" modules="realtime-dws-traffic-vc-ch-ar-is_new-page-view-window">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dws\realtime-dws-traffic-vc-ch-ar-is_new-page-view-window\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 12" modules="realtime-dws-traffic-home-detail-page-view-window">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dws\realtime-dws-traffic-home-detail-page-view-window\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 13" modules="realtime-dws-user-user-login-window">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dws\realtime-dws-user-user-login-window\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 14" modules="realtime-dws-user-user-register-window">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dws\realtime-dws-user-user-register-window\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 15" modules="realtime-dws-trade-cart-add-uu-window">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dws\realtime-dws-trade-cart-add-uu-window\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="realtime-common">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-common\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="realtime-dwd-base-log">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dwd\realtime-dwd-base-log\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="realtime-dws">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dws\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="realtime-dwd-interaction-comment-info">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dwd\realtime-dwd-interaction-comment-info\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="realtime-dwd-trade-cart-add">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dwd\realtime-dwd-trade-cart-add\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 7" modules="realtime-dwd-trade-order-detail">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dwd\realtime-dwd-trade-order-detail\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 8" modules="realtime-dwd-trade-order-pay-suc-detail">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dwd\realtime-dwd-trade-order-pay-suc-detail\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 9" modules="realtime-dwd-base-db">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\projectStation_real_time_data_warehouse\gmall2024-realtime\realtime-dwd\realtime-dwd-base-db\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
